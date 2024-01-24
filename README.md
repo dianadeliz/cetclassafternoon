@@ -1,2 +1,2 @@
 # cetclassafternoon
-computer environments and tools class
+computer environments and tools class. author - diana t. 
